@@ -1,4 +1,4 @@
 # BruceFirmwarePack
 Hello BruceFirmwarePack!
 This includes various packs such as BruceFirmware!
-IR RF NFC EvliPack BadBle&Badusb!
+IR RF NFC EvliPack BadBle&Badusb Sub-GHz
